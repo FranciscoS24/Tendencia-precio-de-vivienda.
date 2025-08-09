@@ -7,3 +7,5 @@
 - Reportar resultados gráficos y matemáticos de lo encontrado en los estudios.
 
 ### En este repositorio se anexan las bases de datos en formato CSV y los Notebooks en formato de Jupyter Notebook. Cada Notebook cuenta con su explicación bloque a bloque de la ejecución de código.
+
+![Precio de casas](https://s36360.pcdn.co/wp-content/uploads/2020/03/precio-vivienda-scaled.jpg)
